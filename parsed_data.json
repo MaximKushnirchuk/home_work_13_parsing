@@ -1,0 +1,842 @@
+[
+  {
+    "link": "https://spb.hh.ru/vacancy/84892336?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 120 000 ₽",
+    "company": "Фрифлекс",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85559687?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО ОКЕНИТ",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84657387?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Konica Minolta",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85569487?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 200 000 ₽",
+    "company": "ООО ЛИГРЕС",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85867116?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 80 000 ₽",
+    "company": "Hexlet",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85758073?from=vacancy_search_list&query=python+django+flask",
+    "salary": "120 000 – 220 000 ₽",
+    "company": "Смарт Текнолоджис,ООО",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86114408?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО РА Дельта",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83754385?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Даком М",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85459167?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "RocketData",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85299799?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "«РОСБАНК»",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85833142?from=vacancy_search_list&query=python+django+flask",
+    "salary": "110 000 – 180 000 ₽",
+    "company": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85096962?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 450 000 ₽",
+    "company": "B.ART",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84765957?from=vacancy_search_list&query=python+django+flask",
+    "salary": "70 000 – 100 000 ₽",
+    "company": "РусЭкспресс",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84485843?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ПАО «МТС», Digital",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/82981541?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "BI.ZONE Направление Разработка",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86071635?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО Национальная система платежных карт",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/82532098?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АНО ЦИСМ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84497299?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Ростелеком - Центры обработки данных",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85232574?from=vacancy_search_list&query=python+django+flask",
+    "salary": "100 000 – 150 000 ₽",
+    "company": "Qualitica",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84853226?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 180 000 ₽",
+    "company": "ZeBrains",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 420 000 ₽",
+    "company": "Точка",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/72687504?from=vacancy_search_list&query=python+django+flask",
+    "salary": "150 000 – 200 000 ₽",
+    "company": "ООО Селфсек",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86107209?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Лига Цифровой Экономики",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85036867?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 150 000 ₽",
+    "company": "B.ART",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86118243?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО АСТ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85631151?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Иннотех, Группа компаний",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83293828?from=vacancy_search_list&query=python+django+flask",
+    "salary": "200 000 – 350 000 ₽",
+    "company": "ООО Кадровый центр Президент",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86113988?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ОТП Банк, АО (OTP bank)",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85894500?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 300 000 ₽",
+    "company": "Триафлай",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/82939674?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Цифровые Сервисы",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86020723?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Сбер. IT",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/79815763?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "МойОфис",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84355216?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО ГЛОРИЯ ДЖИНС. IT",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/79041274?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "The Skolkovo Institute of Science and Technology",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86046878?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО ФИНАМ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85953097?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Сбер. IT",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86076075?from=vacancy_search_list&query=python+django+flask",
+    "salary": "100 000 – 150 000 ₽",
+    "company": "Skyeng",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86076076?from=vacancy_search_list&query=python+django+flask",
+    "salary": "100 000 – 150 000 ₽",
+    "company": "Skyeng",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86046757?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Bell Integrator",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86027106?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Бюро UP",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86025382?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "РБК",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85862386?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Аренадата Софтвер",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85862387?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Аренадата Софтвер",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85330711?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 400 000 ₽",
+    "company": "ИП Пермякова Марина Сергеевна ​​",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84327510?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Эвокарго",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85960239?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Сбер для экспертов",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/78634117?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "YADRO",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85948588?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Сбер для экспертов",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85843517?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 120 000 ₽",
+    "company": "ООО Онлайн-гимназия",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83636716?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Яндекс Практикум",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83636747?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Яндекс Практикум",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85984777?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО НПФ ФИТО",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84887703?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Группа компаний «Group4Media», Управляющая компания",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84547226?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Максмарт",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85868263?from=vacancy_search_list&query=python+django+flask",
+    "salary": "200 000 – 350 000 ₽",
+    "company": "ООО Кадровый центр Президент",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85060732?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "DPD в России",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85768651?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО Банк ДОМ.РФ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84669571?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Московская академия финансового консультирования",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85855704?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 160 000 ₽",
+    "company": "Университет ИТМО",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84174961?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Ostrovok.ru",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/80506144?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 200 000 ₽",
+    "company": "ООО ВижнЛабс (VisionLabs)",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84125839?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО ИнфоТеКС",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85687845?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ICL Services",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85687846?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ICL Services",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85967802?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "GeekBrains",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85622820?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "TerraLink",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85588217?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Программный Продукт, ИТ-компания",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85729700?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Employcity",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85725879?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Softline",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84138273?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "The Skolkovo Institute of Science and Technology",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85691442?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ITFB Group",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84643114?from=vacancy_search_list&query=python+django+flask",
+    "salary": "150 000 – 300 000 ₽",
+    "company": "Carbon Soft",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85688519?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "РБК",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85438570?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ПАО «Газпром нефть» ИТ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85438571?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ПАО «Газпром нефть» ИТ",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85660586?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Employcity",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83970855?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Rambler&Co",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85084487?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Samokat.tech",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85742823?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Softline",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85686891?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ПАО «Газпром нефть» ИТ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85686892?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ПАО «Газпром нефть» ИТ",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/82194939?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Rambler&Co",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85474090?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО WaveAccess",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85688551?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "РБК",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/70052938?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Группа компаний Астра",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85308126?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Диалог Регионы",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83781565?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Hi, Rockits!",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85243700?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "SUNLIGHT/САНЛАЙТ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85203870?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ПАО «Газпром нефть» Закупки",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85515757?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Ростелеком Информационные Технологии",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84727927?from=vacancy_search_list&query=python+django+flask",
+    "salary": "120 000 – 170 000 ₽",
+    "company": "ООО СИКСХЭНДС",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84101474?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Группа Самолет",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85051884?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО SolidLab",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85162978?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 350 000 ₽",
+    "company": "ООО АйТиКвик",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85045379?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО СТМ",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85122113?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО СТМ",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85859076?from=vacancy_search_list&query=python+django+flask",
+    "salary": "180 000 – 250 000 ₽",
+    "company": "ООО РА Дельта",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83544532?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО АйСи Сервис",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83421618?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО АйСи Сервис",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85298421?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Ростелеком Информационные Технологии",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85043646?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Rambler&Co",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84885346?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Интермобилити",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83450677?from=vacancy_search_list&query=python+django+flask",
+    "salary": "300 000 – 350 000 ₽",
+    "company": "ЗАО ИСТ",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84819158?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 350 000 ₽",
+    "company": "Кадровое агентство Юнити",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85245157?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "GRI",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84566005?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Сбер для экспертов",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/80935302?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "YADRO",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86148574?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Московский политехнический университет",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/40379537?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО МедиаСофт",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84568997?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Лига Цифровой Экономики",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84934748?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО «РУСАГРО», Группа компаний",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84896803?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "АО АйСи Сервис",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83148475?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО ОптималФлоу Групп",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85139968?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Группа Самолет",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84852772?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ЕДИНЫЙ ЦУПИС",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85049463?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 500 000 ₽",
+    "company": "Сбер для экспертов",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86101802?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО ЛИИС Инженерные Решения",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84896987?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Findev",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84638082?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 120 000 ₽",
+    "company": "ООО Это элементарно",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84566813?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "GRI",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83296760?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 80 000 ₽",
+    "company": "Бауманский учебный центр Специалист",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83148474?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО ОптималФлоу Групп",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83920230?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ИВ РОШЕ",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85631396?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Weborama Russia",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84713891?from=vacancy_search_list&query=python+django+flask",
+    "salary": "от 150 000 ₽",
+    "company": "Саморегулируемая организация Ассоциация строителей Межрегионстройальянс",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86015948?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 330 000 ₽",
+    "company": "Outlines Technologies",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84419503?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Группа компаний Астра",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85862115?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "TerraLink",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/86027713?from=vacancy_search_list&query=python+django+flask",
+    "salary": "80 000 – 120 000 ₽",
+    "company": "ООО Геоинформационные Сервисы",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84270079?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85242144?from=vacancy_search_list&query=python+django+flask",
+    "salary": "120 000 – 120 000 ₽",
+    "company": "ООО Автоматизация ПРО",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85663296?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "МСП Банк",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85673894?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО ГПМ Партнер",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/78842529?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Tele2",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/83411747?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 300 000 ₽",
+    "company": "Rubbles",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/84885236?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "ООО Интермобилити",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85610164?from=vacancy_search_list&query=python+django+flask",
+    "salary": "90 000 – 130 000 ₽",
+    "company": "ФГКУ Главный Центр Информационных Технологий Войск Национальной Гвардии Российской Федерации",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/72312345?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 400 000 ₽",
+    "company": "Rubbles",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85578622?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Сбер. IT",
+    "city": "Москва"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/85042635?from=vacancy_search_list&query=python+django+flask",
+    "salary": "Ne ykazano",
+    "company": "Газпромбанк",
+    "city": "Москва"
+  }
+]
